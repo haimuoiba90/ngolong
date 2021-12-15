@@ -1,0 +1,183 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wapper{
+        background-color: orange ;
+        width: 1400px;
+        margin: 0 auto;
+}
+.header{
+    height: 200px;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+    padding: 50px;
+}
+.logo{
+    width: calc(30%-5px);
+   display: inline-block;
+   vertical-align: middle;
+   /*margin-left: 5px; */
+}
+.logo a{
+    color: cornsilk;
+    background: blueviolet;
+    font-size: 46px;
+    font-family: fantasy;
+    text-decoration: none;
+    border-radius: 60%;
+}
+.menu{
+    width: 60%;
+   display: inline-block;
+   vertical-align: middle;
+}
+.menu ul{
+    list-style: none;
+    text-align: center;
+}
+.menu li{
+    display: inline-block;
+    margin: 0 24px;
+}
+.menu li a{
+    color: blueviolet;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 5px;
+}
+.menu-2{
+    width: 10%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.menu-3{
+    width: 10%;
+    display: inline-block;
+    vertical-align: middle;
+}
+.btn{
+    background-color: blueviolet;
+    color: cornsilk;
+    padding: 8px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-family: fantasy;  
+}
+.img{
+    width: 50%;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: left;
+}
+.img-1{
+    width: 50%;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: right;
+}    
+.slogan{
+    width: clac(50%-5px);
+    display: inline-block;
+    vertical-align: bottom;
+    color: blueviolet;
+    font-size: 24px;
+    font-family: sans-serif;
+    text-align: left;
+    padding: 15px 0;
+}
+.btn-2{
+    display: inline-block;
+    vertical-align: middle;
+    list-style: none;
+}
+.box{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 30px 0;
+    font-size: 18px;
+    font-family: sans-serif;
+    color: blueviolet;
+}
+.box-1{
+    display: inline-block;
+    vertical-align: middle;
+    padding: 30px 0;
+}
+.btn-2{
+    background-color: blueviolet;
+    color: cornsilk;
+    padding: 8px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-family: fantasy;  
+    font-size: 24px;
+}
+.blog{
+    padding: 10px 0;
+}
+.blog h1{
+    text-align: center;
+    margin-bottom: 32px;
+    color: blueviolet;
+    font-size: 36px;
+    font-family: sans-serif;
+}
+.blog h3{
+    color: blueviolet;
+    font-family: sans-serif;
+}
+.blog p{
+    color: blueviolet;
+    font-family: sans-serif;
+}
+.review{
+    width: 32%;
+    padding-right: 12px;
+    display: inline-block;
+}
+.photo{
+    height: 300px;
+    overflow: hidden;
+}
+ .photo img{
+    height: 100%;
+}
+.review h3{
+    margin: 24px 0;
+
+}
+.footer{
+    background: darkorange ; 
+    padding: 32px 0;
+}
+.footer ul{
+    list-style: none;
+    text-align: center;
+}
+.footer li{
+    display: inline-block;
+    margin: 0 24px;
+}
+.footer li a{
+    color: blueviolet;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: sans-serif;
+    padding: 5px;
+}    
+.footer p{
+    text-align: center;
+    margin-top: 24px ;
+    color: blueviolet;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+
+
+
